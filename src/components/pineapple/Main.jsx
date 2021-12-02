@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import './Main.css';
 import Preview from '../preview2/Preview';
 import Editor from '../editor2/editor';
-import Counter from '../counter/Counter';
+import Counter from '../counter2/Counter';
 
 export default function Main() {
   const [top, setTop] = useState('top-1');
