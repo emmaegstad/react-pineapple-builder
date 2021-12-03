@@ -10,7 +10,7 @@ test('renders the Editor component', () => {
       middleCount="0"
       top="top-1"
       topCount="0"
-      catchphrase="This is a phrase."
+      catchphrase=""
     />
   );
   expect(container).toMatchSnapshot();

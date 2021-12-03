@@ -92,7 +92,7 @@ Object {
           </label>
           <input
             type="text"
-            value="This is a phrase."
+            value=""
           />
           <button>
             Add
@@ -189,7 +189,7 @@ Object {
         </label>
         <input
           type="text"
-          value="This is a phrase."
+          value=""
         />
         <button>
           Add

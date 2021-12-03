@@ -19,17 +19,11 @@ export default function Main() {
       <Preview {...{ top, middle, bottom }} />
       <Editor
         {...{
-          top,
           setTop,
-          middle,
           setMiddle,
-          bottom,
           setBottom,
-          topCount,
           setTopCount,
-          middleCount,
           setMiddleCount,
-          bottomCount,
           setBottomCount,
           catchphrase,
           setCatchphrase,
